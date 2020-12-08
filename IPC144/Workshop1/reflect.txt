@@ -1,0 +1,6 @@
+What I have learned
+
+1) Creating C project using Visual Studio
+2) Creating source file in Visual Studio
+3) Learned display text using printf()
+4) Learned how to display text in separate line
